@@ -1,0 +1,5300 @@
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tfor ( i = 0; i < r; ++i )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\treturn sum * exp( -x + a * log( x ) - LGamma( a ) );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfree( (pointer)xj );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tgoto ret1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 3
+fail total: 5
+Precision: 1.0
+Recall: 0.6
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\t   : info < -2.5 ? "table too small\\n"\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 3
+fail total: 5
+Precision: 1.0
+Recall: 0.6
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( (xj = (double *)malloc( c * sizeof(double) )) == NULL )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( totdf <= 0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['    ret2:\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\ta0 = (a1 + a0 * ana) * fac;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( N <= 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tb0 = (b1 + b0 * ana) * fac;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t(void)printf( "\\ntotal 2info = %5.2f\\tdf = %2d\\tq = %7.4f\\n",\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 3
+fail total: 5
+Precision: 1.0
+Recall: 0.6
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn x < a + 1.0 ? 1.0 - gser( a, x ) : gcf( a, x );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\txj[j] = sum;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tpix = PI * x;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t(void)fputs( "\\n*** no information accumulated ***\\n", stdout );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tif ( pij > 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tint\t\tcdf = c - 1;\t/* column degrees of freedom */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tgold = g;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tinfo += pij * log( pij );\t/* part 3 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\ttotinfo += info;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn EXIT_SUCCESS;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['InfoTbl( r, c, f, pdf )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tinfo = -1.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tinfo = N * log( N );\t\t\t\t\t/* part 1 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tser += cof[j] / ++x;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tpj = xj[j];\t/* column sum */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\ttotdf += infodf;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\ttmp -= (x + 0.5) * log( tmp );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn QGamma( (double)df / 2.0, chisq / 2.0 );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tif ( k < 0L )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['main( argc, argv )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['    ret3:\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( n = 1; n <= ITMAX; ++n )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tdouble\tpij = (double)x(i,j);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tfor ( j = 0; j < c; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\twhile ( fgets( line, MAXLINE, stdin ) != NULL )\t/* start new table */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tser = 1.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tanf = an * fac;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tfor ( j = 0; j < c; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tb0 = 0.0, a0 = 1.0, a1 = x;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( sscanf( p, "%d %d\\n", &r, &c ) != 2 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tgoto ret3;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t(void)fputs( info < -3.5 ? "out of memory\\n"\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 3
+fail total: 5
+Precision: 1.0
+Recall: 0.6
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tinfo = InfoTbl( r, c, f, &infodf );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( Abs( del ) < Abs( sum ) * EPS )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tcontinue;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\ta1 = x * a0 + anf * a1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tsum += (double)k;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 3
+fail total: 5
+Precision: 1.0
+Recall: 0.6
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( j = 0; j < c; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\ttmp = x + 5.5;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\treturn exp( -x + a * log( x ) - LGamma( a ) ) * g;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( j = 0; j < 6; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( r * c > MAXTBL )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tint\t\trdf = r - 1;\t/* row degrees of freedom */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tinfo -= pj * log( pj );\t\t\t/* part 4 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tinfo = -2.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn info;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tN = 0.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['        totdf = 0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tgoto ret1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 3
+fail total: 5
+Precision: 1.0
+Recall: 0.6
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['    ret1:\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tlong\tk = x(i,j);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ["\t\tif ( *p == '\\0' )\n"]
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t(void)fputs( line, stdout );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t(void)printf( "2info = %5.2f\\tdf = %2d\\tq = %7.4f\\n",\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t*pdf = rdf * cdf;\t\t/* total degrees of freedom */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( *p == COMMENT )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['QChiSq( chisq, df )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['gser( a, x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tsum = 0.0;\t/* accumulator */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( pi > 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['LGamma( x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tana = an - a;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\treturn EXIT_FAILURE;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tinfo -= pi * log( pi );\t\t\t/* part 2 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tsum += (double)x(i,j);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tif ( scanf( " %ld", &x(i,j) ) == 0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['gcf( a, x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( i = 0; i < r; ++i )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tN += xi[i] = sum;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 3
+fail total: 5
+Precision: 1.0
+Recall: 0.6
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tdel = sum = 1.0 / (ap = a);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\treturn log( pix / sin( pix ) ) - LGamma( 1.0 - x );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ["\t\tfor ( p = line; *p != '\\0' && isspace( (int)*p ); ++p )\n"]
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( a1 != 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( --x < 0.0 )\t/* use reflection formula for accuracy */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['QGamma( a, x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tpi = xi[i];\t/* row sum */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfree( (pointer)xi );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tan = (double)n;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tdouble\t\ttotinfo = 0.0;\t/* accumulated information */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( pj > 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( x <= 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tsum += del *= x / ++ap;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tb1 = x * b0 + anf * b1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tdouble\t\tgold = 0.0, fac = 1.0, b1 = 1.0,\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( (xi = (double *)malloc( r * sizeof(double) )) == NULL )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tinfo *= 2.0;\t\t\t/* for comparability with chi-square */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tcontinue;\t/* skip blank line */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( rdf <= 0 || cdf <= 0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tinfo = -3.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn -tmp + log( 2.50662827465 * ser );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tgold = g - gold;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( info >= 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tif ( Abs( gold ) < EPS * Abs( g ) )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tdouble\tg = b1 * (fac = 1.0 / a1);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 5
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( x <= 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['    ret2:\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tinfo = -2.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn EXIT_SUCCESS;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['        totdf = 0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t(void)printf( "2info = %5.2f\\tdf = %2d\\tq = %7.4f\\n",\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tinfo -= pi * log( pi );\t\t\t/* part 2 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tfor ( j = 0; j < c; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\txj[j] = sum;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn QGamma( (double)df / 2.0, chisq / 2.0 );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\ttotinfo += info;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfree( (pointer)xj );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['QGamma( a, x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\ta0 = (a1 + a0 * ana) * fac;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\t   : info < -2.5 ? "table too small\\n"\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tan = (double)n;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tlong\tk = x(i,j);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\treturn exp( -x + a * log( x ) - LGamma( a ) ) * g;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tdel = sum = 1.0 / (ap = a);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\ttotdf += infodf;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfree( (pointer)xi );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tif ( scanf( " %ld", &x(i,j) ) == 0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tinfo *= 2.0;\t\t\t/* for comparability with chi-square */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( totdf <= 0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ["\t\tif ( *p == '\\0' )\n"]
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t(void)fputs( line, stdout );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\ttmp -= (x + 0.5) * log( tmp );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tinfo = -3.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tN += xi[i] = sum;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 7
+fail total: 10
+Precision: 1.0
+Recall: 0.7
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( j = 0; j < 6; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( info >= 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['    ret3:\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tb0 = (b1 + b0 * ana) * fac;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tdouble\tpij = (double)x(i,j);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tcontinue;\t/* skip blank line */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tinfo = N * log( N );\t\t\t\t\t/* part 1 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tN = 0.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t(void)fputs( "\\n*** no information accumulated ***\\n", stdout );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( pi > 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['gser( a, x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tinfo += pij * log( pij );\t/* part 3 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\treturn sum * exp( -x + a * log( x ) - LGamma( a ) );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tsum += del *= x / ++ap;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( N <= 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( (xj = (double *)malloc( c * sizeof(double) )) == NULL )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tif ( Abs( gold ) < EPS * Abs( g ) )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\treturn EXIT_FAILURE;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tsum = 0.0;\t/* accumulator */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tsum += (double)x(i,j);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t*pdf = rdf * cdf;\t\t/* total degrees of freedom */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tinfo = -1.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tb0 = 0.0, a0 = 1.0, a1 = x;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tint\t\tcdf = c - 1;\t/* column degrees of freedom */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['main( argc, argv )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t\tgoto ret1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 4
+fail total: 10
+Precision: 1.0
+Recall: 0.4
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tif ( pij > 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tdouble\t\ttotinfo = 0.0;\t/* accumulated information */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tser += cof[j] / ++x;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t(void)printf( "\\ntotal 2info = %5.2f\\tdf = %2d\\tq = %7.4f\\n",\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 7
+fail total: 10
+Precision: 1.0
+Recall: 0.7
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( pj > 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['LGamma( x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\treturn log( pix / sin( pix ) ) - LGamma( 1.0 - x );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tinfo = InfoTbl( r, c, f, &infodf );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( n = 1; n <= ITMAX; ++n )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn x < a + 1.0 ? 1.0 - gser( a, x ) : gcf( a, x );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tgold = g - gold;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( Abs( del ) < Abs( sum ) * EPS )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\ttmp = x + 5.5;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tinfo -= pj * log( pj );\t\t\t/* part 4 */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tanf = an * fac;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( a1 != 0.0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( --x < 0.0 )\t/* use reflection formula for accuracy */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tser = 1.0;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tsum += (double)k;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 7
+fail total: 10
+Precision: 1.0
+Recall: 0.7
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\t(void)fputs( info < -3.5 ? "out of memory\\n"\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 7
+fail total: 10
+Precision: 1.0
+Recall: 0.7
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tcontinue;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tpix = PI * x;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tint\t\trdf = r - 1;\t/* row degrees of freedom */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( r * c > MAXTBL )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tgoto ret1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( sscanf( p, "%d %d\\n", &r, &c ) != 2 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tgoto ret3;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn info;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( i = 0; i < r; ++i )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tana = an - a;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\treturn -tmp + log( 2.50662827465 * ser );\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( (xi = (double *)malloc( r * sizeof(double) )) == NULL )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tif ( rdf <= 0 || cdf <= 0 )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tfor ( j = 0; j < c; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tpi = xi[i];\t/* row sum */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tif ( *p == COMMENT )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ["\t\tfor ( p = line; *p != '\\0' && isspace( (int)*p ); ++p )\n"]
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tdouble\t\tgold = 0.0, fac = 1.0, b1 = 1.0,\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tgold = g;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['QChiSq( chisq, df )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tfor ( i = 0; i < r; ++i )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['    ret1:\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tdouble\tg = b1 * (fac = 1.0 / a1);\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\t\tif ( k < 0L )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\twhile ( fgets( line, MAXLINE, stdin ) != NULL )\t/* start new table */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tdouble\tpj = xj[j];\t/* column sum */\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 9
+fail total: 10
+Precision: 1.0
+Recall: 0.9
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\tb1 = x * b0 + anf * b1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\t\ta1 = x * a0 + anf * a1;\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['InfoTbl( r, c, f, pdf )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['\tfor ( j = 0; j < c; ++j )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0
+
+---------------------------Pop: 1
+FC_FLAG:True
+Target_fc_list:
+[]
+TR_SHUFFLE_TR:True
+Target_list: ['gcf( a, x )\n']
+SECOND_TARGET_FLAG:False
+SECOND_SH_NAME[]
+GLOBAL_READ_FROM_FILE: False
+G_TARGET_FUNC: original
+Front:0
+../clover-line/totinfo/2/MODEL/20/model_last/
+Word2Vec Path: ../clover-line/totinfo/2/MODEL/20/wv28-w1.model /wv50-w1-return.model /wv50-w1-argument.model
+TRAINIG_DATA_ONLY_CALSSIFY: False
+TRAINING_ONLY_SIZE: 0.3
+
+Classification set:
+pass matches: 0
+pass total: 0
+fail matches: 8
+fail total: 10
+Precision: 1.0
+Recall: 0.8
+TNR: 0

@@ -1,0 +1,13 @@
+main( argc, argv )
+	double		totinfo = 0.0;	/* accumulated information */
+        totdf = 0;
+	while ( fgets( line, MAXLINE, stdin ) != NULL )	/* start new table */
+		for ( p = line; *p != '\0' && isspace( (int)*p ); ++p )
+		if ( *p == '\0' )
+			continue;	/* skip blank line */
+		if ( *p == COMMENT )
+			(void)fputs( line, stdout );
+			continue;
+	if ( totdf <= 0 )
+		(void)fputs( "\n*** no information accumulated ***\n", stdout );
+		return EXIT_FAILURE;

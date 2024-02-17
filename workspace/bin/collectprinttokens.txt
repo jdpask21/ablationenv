@@ -1,0 +1,4 @@
+printtokens 1
+printtokens 2
+printtokens 5
+printtokens 7

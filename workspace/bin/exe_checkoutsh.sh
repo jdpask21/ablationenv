@@ -1,0 +1,10 @@
+./checkout.sh Lang 1
+./checkout.sh Lang 6
+./checkout.sh Lang 7
+./checkout.sh Lang 10
+./checkout.sh Lang 15
+./checkout.sh Lang 16
+./checkout.sh Lang 17
+./checkout.sh Lang 18
+./checkout.sh Lang 19
+./checkout.sh Lang 20

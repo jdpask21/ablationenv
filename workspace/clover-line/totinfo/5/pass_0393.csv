@@ -1,0 +1,7 @@
+main( argc, argv )
+	double		totinfo = 0.0;	/* accumulated information */
+        totdf = 0;
+	while ( fgets( line, MAXLINE, stdin ) != NULL )	/* start new table */
+	if ( totdf <= 0 )
+		(void)fputs( "\n*** no information accumulated ***\n", stdout );
+		return EXIT_FAILURE;

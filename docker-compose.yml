@@ -1,0 +1,11 @@
+version: '2'
+services:
+  fl:
+    build: 
+      context: .
+      dockerfile: ./fl/Dockerfile
+    image: ablation_env
+    container_name: ablation_experiment
+    volumes:
+      - ./workspace:/workspace
+    tty: true

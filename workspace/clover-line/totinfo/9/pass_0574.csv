@@ -1,0 +1,10 @@
+main( argc, argv )
+	double		totinfo = 0.0;	/* accumulated information */
+        totdf = 0;
+	while ( fgets( line, MAXLINE, stdin ) != NULL )	/* start new table */
+		for ( p = line; *p != '\0' && isspace( (int)*p ); ++p )
+		if ( *p == '\0' )
+		if ( *p == COMMENT )
+		if ( sscanf( p, "%d %d\n", &r, &c ) != 2 )
+			(void)fputs( "* invalid row/column line *\n", stdout );
+			return EXIT_FAILURE;
