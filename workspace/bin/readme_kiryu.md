@@ -12,7 +12,7 @@ defects4jのカバレッジをjacocoを用いて収集するツールです.
 1. docker-compose でサービス構築
 2. サービスにbashで入ってsetup.sh(/workspace/bin/setup.sh たぶんパス通ってる)実行
 3. run_test.sh <project_id> <bug_id>
-4. /workspace/coverage/<project_id>/<bug_id>
+4. /workspace/clover/<project_id>/<bug_id>
 
 # workspace/binの各ファイル
 - checkout-compile.sh
@@ -25,13 +25,31 @@ defects4jのカバレッジをjacocoを用いて収集するツールです.
     - 手順の3, 4を行う.
     - 引数にプロジェクト名とバグidを与える(e.g. "collect_coverage_parallelized.py Chart 2").
     - all_tests.txtに保存されているgzoltarが集計したテストを並列実行する.
-    - "workspace/coverage/プロジェクト名/バグid"にカバレッジが生成される.
+    - "workspace/clover/プロジェクト名/バグid"にカバレッジが生成される.
         - 失敗テストのカバレッジファイル名はfailから始まる.
         - "is_plane.txt"が生成されるが, ソースコードの内ステートメントがない行部分に1がついており, "is_plane.txt"で0の部分(ステートメントがある行部分)がカバレッジとして収集される. そのため, カバレッジファイルの行番号とソースコードの行番号が一致しない. が, test.pyの中ではそれを加味してカバレッジを読み込んでいるため行番号は一致するようになっている.
+    - プログラムとしては残していますが、run_test.shを読んだらわかる通り、OpenCloverを使用する場合はこいつは使用しません。
+
+- hoge.py
+    - 実行回数カバレッジ情報を収集するプログラムです。run_test.shではデフォルトでこいつを使用
+- hoge2.py
+    - 通常のコードカバレッジ情報を収集するプログラムです。使う場合はコメントアウトを解除してください。その際は、hoge.py、hoge3.pyはコメントアウトしてください。
+- hoge3.py
+    - 論文[Ablationとテストケース学習に基づく実行情報の欠落を利用した故障箇所特定](../../masterthesis2024.pdf), [Fault Localization with DNN-based Test Case Learning and Ablated Execution Traces](../../ISE2023-ikeda_t.pdf)で使用している実行トレースを収集するプログラムです。他と同様に使用する際はコメントアウトを解除してください。また、hoge.py, hoge2.pyはコメントアウトしてください。
         
 - run_test.sh
     - checkout-compile.sh と collect_coverage_parallelized.py を実行するやつ.
-    - 引数にプロジェクト名とバグidを与える(e.g. "run_test.sh Chart 2").
+    - 引数にプロジェクト名とバグidを与える
+    ```shell:e.g.
+    run_test.sh Lang 1
+    ```
+    - デフォルトではOpenCloverを使用するようにしています。基本的にOpenCloverでカバレッジ情報を収集してください。jacocoでは一部のプログラムでコードカバレッジ情報を収集することができないためです。
+    - プロジェクトごとに依存情報が異なるため、いくつかのプログラム,シェルスクリプトでプロジェクトのVersion毎に変更する箇所があります。以下のファイルは変更必要箇所があるファイルです。必要箇所はプロジェクト名をエディターの検索機能を活用して特定してください。
+        - run_test.sh
+        - hoge.py (hoge2.pyはテスト実行機能を省いているので変更必要箇所はありません。ただし実行にはhoge.pyで収集したカバレッジレポートが必要です。)
+        - hoge3.py
+        - writemavenxml.py
+        - xml_write_test.py
 
 - SingleJUnitTestRunner.java
     - テスト関数単体で実行できるJUnitのやり方がわからなかったため, 無理やりテスト関数単体を実行するようなクラスを作った. collect_coverage_parallelized.pyではこのクラス経由で各テストを実行している.

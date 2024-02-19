@@ -1,4 +1,4 @@
-# Ablationとテストケース学習に基づく実行情報の欠落を利用した故障箇所特定 
+# Ablationとテストケース学習に基づく実行情報の欠落を利用した故障箇所特定
 
 ## 各ディレクトリとファイルの中身について
 - fl
@@ -27,8 +27,8 @@
 - cal_bugpattern.py<br>
     実験結果を故障別に考察するために使用したプログラムです。使わないと思いますが残しています。
 - checkout.sh, compile.sh, run_checkout.sh, run_test.sh, setup.sh, zoltar.sh, collect_coverage_parallelized.py, hoge.py, hoge2.py, coverageout.py, writemavenxml.py, xml_write_test.py, SIngleJUnitTestRUnner.class<br>
-    <!-- 実行トレースやカバレッジを収集するためのシェルとプログラムです。詳しくは[桐生さんの引継ぎ資料](./workspace/bin/readme_kiryu.md)を確認してください。 -->
-    実行トレースやカバレッジを収集するためのシェルとプログラムです。OpenCloverを使用しています。
+    実行トレースやカバレッジを収集するためのシェルとプログラムです。詳しくは[引継ぎ資料](./workspace/bin/readme_kiryu.md)を確認してください。
+    <!-- 実行トレースやカバレッジを収集するためのシェルとプログラムです。OpenCloverを使用しています。 -->
 - collect_bug_multi.txt, collect{PROJECT_NAME}.txt<br>
     多重故障のプロジェクトと各プロジェクトの名前とVersionが格納されたテキストファイルです。
 - main_line.py<br>
@@ -39,6 +39,8 @@
     onlin_line.pyで出力した疑わしさスコアをプロットするためのプログラムです。考察などのために使用しました。
 - rename_model.py<br>
     複数のモデルを用いてその平均を最終的な実験結果とする際、保存したDNNモデルの名前を統一したほうが実験がやりやすいです。このプログラムはmain_line.pyで保存したモデルの名前をonlin_line.pyでまとめて処理できるように変更するプログラムです。
+- make_linetr.py<br>
+    gcovを使用して収集したカバレッジレポートから本研究で使用した実行トレースを収集するためのプログラムです。SIR用に作成したものなので、Defects4jのカバレッジレポートには使えません。Defects4jのほうはxml形式なのでプログラム書けば同じものが収集できるはずです。
 
 ## 実験環境の構築とプログラムの実行
 1. READMEがあるディレクトリでDockerイメージの作成、コンテナ起動を行う。
@@ -66,4 +68,3 @@ python3 main_line.py totinfo 2
 python3 onlin_line.py totinfo 2
 ```
 5. 結果の確認を行います。論文では一つのプログラムに対して10のモデルを作成したため、それぞれのモデルの結果の平均を最終的な実験結果としています。平均結果はWRITE_TOPN_PERCENTILEで指定するファイルに、それぞれのモデルの結果はOUTPUT_PER_SEEDで指定するファイルに書き込まれます。書き込まれる結果は故障を特定するために必要なコードの調査量であるTopN％です。
-

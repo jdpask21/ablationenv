@@ -71,7 +71,7 @@ script_dir = "/tmp/" + args.project_id + "/" + args.bug_id + "/"
 
 report_dir = script_dir + "report/"
 # report_dir = "/workspace/clover/tmp/" + args.project_id + "/" + args.bug_id + "/report/"   ###for deep project
-cov_output_dir = script_dir.replace("/tmp", "/workspace/clover-execution")   #カバレッジ情報出力ディレクトリ
+cov_output_dir = script_dir.replace("/tmp", "/workspace/clover-line")   #カバレッジ情報出力ディレクトリ
 single_test_runner_path = "/workspace/bin"
 clover_jar = "/root/clover/lib/clover.jar"
 
@@ -137,7 +137,7 @@ def run_test(test):
 
 if not args.only_get_coverage:
     #'''
-    # make empty the report directory
+    #make empty the report directory
     if os.path.exists(report_dir):
         shutil.rmtree(report_dir)
     os.makedirs(report_dir)
@@ -184,6 +184,9 @@ trigger_tests = subprocess.run(["defects4j export -p tests.trigger"], capture_ou
 
 
 # making is_plane.txt
+#make empty the report directory
+if not os.path.exists(report_dir):
+    os.makedirs(report_dir)
 plane = np.ones(LOC)
 root = etree.parse(glob.glob(report_dir+"*.xml")[0])
 print(len(glob.glob(report_dir+"*.xml")))
@@ -207,33 +210,44 @@ def extract_coverage(report):
     with open(report, mode="wb") as f:
         etree.ElementTree(executed_file).write(f, encoding='utf-8', xml_declaration=True)
 
-    coverage = np.zeros(len(set([e.attrib.get("num") for e in executed_lines])))
-    cooverd = dict()
-    index = -1
+    coverage = []
+    line_index = 0
     for e in executed_lines:
-        if not e.attrib.get("num") in cooverd:
-            cooverd[e.attrib.get("num")] = True
-            index += 1
         if e.attrib.get("type") == "cond":
-            if e.attrib.get("truecount") != "0" or e.attrib.get("falsecount") != "0":
-                coverage[index] = int(e.attrib.get("truecount")) +\
-                int(e.attrib.get("falsecount"))   ###実行回数
+            pass
         else:
             if e.attrib.get("count") != "0":
-                coverage[index] = int(e.attrib.get("count"))
-    if not np.all(coverage == 0):
+                coverage.append(line_ntcmnt[line_index])
+                line_index += 1
+            else:
+                line_index += 1
+    if not len(coverage) == 0:
         printer.successed()
         digit = int(log10(num_all_test))+1
         save_name = cov_output_dir + result + '_' + \
             ("{:0"+str(digit)+"d}").format(printer.get_count(result, increment=True)) + '.csv'
-        np.savetxt(save_name, coverage, fmt="%1d")
+        wf = open(save_name, "w")
+        for i in coverage:
+            wf.write(str(i))
+        wf.close()
+        # np.savetxt(save_name, coverage, fmt="%1d")
 
-try:
-    with futures.ThreadPoolExecutor() as executor:
-        job_list = [executor.submit(extract_coverage, report=repo)
-                    for repo in  glob.glob(report_dir+"*.xml")]
-        for fut in futures.as_completed(fs=job_list):
-            fut.result()
+line_index = 0
+line_ntcmnt = []
+mf = open(modified_src, "r")
+while True:
+    line = mf.readline()
+    if line:
+        if plane[line_index] == 0:
+            line_ntcmnt.append(line)
+        line_index += 1
+    else:
+        break
+mf.close()
+
+try:                
+    for repo in  glob.glob(report_dir+"*.xml"):
+        extract_coverage(repo)
 except KeyboardInterrupt:
     sys.exit(1)
 print()

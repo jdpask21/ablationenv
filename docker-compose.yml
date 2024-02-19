@@ -4,7 +4,7 @@ services:
     build: 
       context: .
       dockerfile: ./fl/Dockerfile
-    image: ablation_env
+    image: ablation_env_clover
     container_name: ablation_experiment
     volumes:
       - ./workspace:/workspace

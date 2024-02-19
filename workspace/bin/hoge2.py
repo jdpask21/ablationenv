@@ -94,7 +94,7 @@ errs = []
 src_dir = subprocess.run(["defects4j export -p dir.src.classes"], capture_output=True, text=True, shell=True).stdout + "/"
 
 
-#modified_src = script_dir + "tmp_" + src_dir + \
+# modified_src = script_dir + "tmp_" + src_dir + \
 #    subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
 modified_src = script_dir + src_dir.replace("java", "tmp_java") + \
     subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
@@ -167,8 +167,8 @@ print()
 print(printer.counter)
 
 
-result_dir = "/workspace/clover/tmp/" + args.project_id + "/" + args.bug_id + "/"
-if os.path.exists(result_dir):
-    shutil.rmtree(result_dir)
-os.makedirs(result_dir)
-shutil.copytree(report_dir, result_dir + "report")
+# result_dir = "/workspace/clover/tmp/" + args.project_id + "/" + args.bug_id + "/"
+# if os.path.exists(result_dir):
+#     shutil.rmtree(result_dir)
+# os.makedirs(result_dir)
+# shutil.copytree(report_dir, result_dir + "report")
