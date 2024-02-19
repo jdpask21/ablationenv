@@ -1,4 +1,5 @@
-# Ablationとテストケース学習に基づく実行情報の欠落を利用した故障箇所特定
+# Fault Localization with DNN-based Test Case Learning and Ablated Execution Traces (ISE2023)
+# Ablationとテストケース学習に基づく実行情報の欠落を利用した故障箇所特定 (修士論文)
 
 ## 各ディレクトリとファイルの中身について
 - fl
@@ -26,7 +27,7 @@
     OchiaiやTarantulaを実行するためのプログラムです。
 - cal_bugpattern.py<br>
     実験結果を故障別に考察するために使用したプログラムです。使わないと思いますが残しています。
-- checkout.sh, compile.sh, run_checkout.sh, run_test.sh, setup.sh, zoltar.sh, collect_coverage_parallelized.py, hoge.py, hoge2.py, coverageout.py, writemavenxml.py, xml_write_test.py, SIngleJUnitTestRUnner.class<br>
+- checkout.sh, compile.sh, run_checkout.sh, run_test.sh, setup.sh, zoltar.sh, collect_coverage_parallelized.py, hoge.py, hoge2.py, hoge3.py, coverageout.py, writemavenxml.py, xml_write_test.py, SIngleJUnitTestRUnner.class<br>
     実行トレースやカバレッジを収集するためのシェルとプログラムです。詳しくは[引継ぎ資料](./workspace/bin/readme_kiryu.md)を確認してください。
     <!-- 実行トレースやカバレッジを収集するためのシェルとプログラムです。OpenCloverを使用しています。 -->
 - collect_bug_multi.txt, collect{PROJECT_NAME}.txt<br>
