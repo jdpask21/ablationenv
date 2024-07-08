@@ -1,0 +1,16 @@
+    protected AbstractCategoryItemRenderer() {
+        this.itemLabelGeneratorList = new ObjectList();
+        this.toolTipGeneratorList = new ObjectList();
+        this.urlGeneratorList = new ObjectList();
+        this.legendItemLabelGenerator
+        this.backgroundAnnotations = new ArrayList();
+        this.foregroundAnnotations = new ArrayList();
+    public void setPlot(CategoryPlot plot) {
+        if (plot == null) {
+        this.plot = plot;
+    public void setBaseToolTipGenerator(CategoryToolTipGenerator generator) {
+        setBaseToolTipGenerator(generator, true);
+    public void setBaseToolTipGenerator(CategoryToolTipGenerator generator,
+        this.baseToolTipGenerator = generator;
+        if (notify) {
+            notifyListeners(new RendererChangeEvent(this));

@@ -1,0 +1,53 @@
+    protected AbstractCategoryItemRenderer() {
+        this.itemLabelGeneratorList = new ObjectList();
+        this.toolTipGeneratorList = new ObjectList();
+        this.urlGeneratorList = new ObjectList();
+        this.legendItemLabelGenerator
+        this.backgroundAnnotations = new ArrayList();
+        this.foregroundAnnotations = new ArrayList();
+    public CategoryPlot getPlot() {
+        return this.plot;
+    public void setPlot(CategoryPlot plot) {
+        if (plot == null) {
+        this.plot = plot;
+    public Range findRangeBounds(CategoryDataset dataset) {
+        return findRangeBounds(dataset, false);
+    protected Range findRangeBounds(CategoryDataset dataset,
+        if (dataset == null) {
+        if (getDataBoundsIncludesVisibleSeriesOnly()) {
+            List visibleSeriesKeys = new ArrayList();
+            int seriesCount = dataset.getRowCount();
+            for (int s = 0; s < seriesCount; s++) {
+                if (isSeriesVisible(s)) {
+                    visibleSeriesKeys.add(dataset.getRowKey(s));
+            return DatasetUtilities.findRangeBounds(dataset,
+    public LegendItem getLegendItem(int datasetIndex, int series) {
+        CategoryPlot p = getPlot();
+        if (p == null) {
+        if (!isSeriesVisible(series) || !isSeriesVisibleInLegend(series)) {
+        CategoryDataset dataset = p.getDataset(datasetIndex);
+        String label = this.legendItemLabelGenerator.generateLabel(dataset,
+        String description = label;
+        String toolTipText = null;
+        if (this.legendItemToolTipGenerator != null) {
+        String urlText = null;
+        if (this.legendItemURLGenerator != null) {
+        Shape shape = lookupLegendShape(series);
+        Paint paint = lookupSeriesPaint(series);
+        Paint outlinePaint = lookupSeriesOutlinePaint(series);
+        Stroke outlineStroke = lookupSeriesOutlineStroke(series);
+        LegendItem item = new LegendItem(label, description, toolTipText,
+        item.setLabelFont(lookupLegendTextFont(series));
+        Paint labelPaint = lookupLegendTextPaint(series);
+        if (labelPaint != null) {
+        item.setSeriesKey(dataset.getRowKey(series));
+        item.setSeriesIndex(series);
+        item.setDataset(dataset);
+        item.setDatasetIndex(datasetIndex);
+        return item;
+    public DrawingSupplier getDrawingSupplier() {
+        DrawingSupplier result = null;
+        CategoryPlot cp = getPlot();
+        if (cp != null) {
+            result = cp.getDrawingSupplier();
+        return result;

@@ -11,11 +11,11 @@ args = parser.parse_args()
 ##
 
 #Lang
-path = "/tmp/" + args.project_id + "/" + args.bug_id + "/maven-build.xml"
+# path = "/tmp/" + args.project_id + "/" + args.bug_id + "/maven-build.xml"
 #Math
 #path = "/tmp/" + args.project_id + "/" + args.bug_id + "/test-jar.xml"
 #Chart
-#path = "/tmp/" + args.project_id + "/" + args.bug_id + "/ant/build.xml"   
+path = "/tmp/" + args.project_id + "/" + args.bug_id + "/ant/build.xml"   
 
 import xml.etree.ElementTree as ET
 
@@ -31,23 +31,23 @@ root = tree.getroot()
 #         print(child.attrib)
 #'''
 #'''   ###Lang Version21-
-for child in root:
-    if "id" in child.attrib and (child.attrib["id"] == "build.classpath" \
-        or child.attrib["id"] == "test.classpath" or child.attrib["id"] \
-              == "build.test.classpath"):
-        cloverpath = ET.SubElement(child, "pathelement")
-        cloverpath.set("location", "/root/clover/lib/clover.jar")
-        print(child.attrib)
+# for child in root:
+#     if "id" in child.attrib and (child.attrib["id"] == "build.classpath" \
+#         or child.attrib["id"] == "test.classpath" or child.attrib["id"] \
+#               == "build.test.classpath"):
+#         cloverpath = ET.SubElement(child, "pathelement")
+#         cloverpath.set("location", "/root/clover/lib/clover.jar")
+#         print(child.attrib)
 #'''
 #'''   ###Chart
-# for child in root:
-#     if child.attrib['name'] == "initialise":
-#         for c_child in child:
-#             if "id" in c_child.attrib and c_child.attrib['id'] ==\
-#                   "build.classpath":
-#                 cloverpath = ET.SubElement(c_child, "pathelement")
-#                 cloverpath.set("location", "/root/clover/lib/clover.jar")
-#                 print(c_child.attrib)
+for child in root:
+    if child.attrib['name'] == "initialise":
+        for c_child in child:
+            if "id" in c_child.attrib and c_child.attrib['id'] ==\
+                  "build.classpath":
+                cloverpath = ET.SubElement(c_child, "pathelement")
+                cloverpath.set("location", "/root/clover/lib/clover.jar")
+                print(c_child.attrib)
 #'''
 '''
 for child in root:

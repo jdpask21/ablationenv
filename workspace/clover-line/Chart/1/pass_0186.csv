@@ -1,0 +1,21 @@
+    protected AbstractCategoryItemRenderer() {
+        this.itemLabelGeneratorList = new ObjectList();
+        this.toolTipGeneratorList = new ObjectList();
+        this.urlGeneratorList = new ObjectList();
+        this.legendItemLabelGenerator
+        this.backgroundAnnotations = new ArrayList();
+        this.foregroundAnnotations = new ArrayList();
+    public CategoryURLGenerator getSeriesURLGenerator(int series) {
+        return (CategoryURLGenerator) this.urlGeneratorList.get(series);
+    public void setSeriesURLGenerator(int series,
+        setSeriesURLGenerator(series, generator, true);
+    public void setSeriesURLGenerator(int series,
+        this.urlGeneratorList.set(series, generator);
+        if (notify) {
+            notifyListeners(new RendererChangeEvent(this));
+    public void setBaseURLGenerator(CategoryURLGenerator generator) {
+        setBaseURLGenerator(generator, true);
+    public void setBaseURLGenerator(CategoryURLGenerator generator,
+        this.baseURLGenerator = generator;
+        if (notify) {
+            notifyListeners(new RendererChangeEvent(this));

@@ -97,12 +97,12 @@ src_dir = subprocess.run(["defects4j export -p dir.src.classes"], capture_output
 #modified_src = script_dir + "tmp_" + src_dir + \
 #    subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
 ###Math, Lang
-modified_src = script_dir + src_dir.replace("java", "tmp_java") + \
-    subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
+# modified_src = script_dir + src_dir.replace("java", "tmp_java") + \
+#     subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
 
 ###Chart
-#modified_src = script_dir + src_dir.replace("source", "tmp_source") + \
-#    subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
+modified_src = script_dir + src_dir.replace("source", "tmp_source") + \
+   subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
 ###Closure
 #modified_src = script_dir + src_dir.replace("src", "tmp_src") + \
 #    subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"

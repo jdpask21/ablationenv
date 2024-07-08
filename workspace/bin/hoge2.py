@@ -76,6 +76,7 @@ clover_jar = "/root/clover/lib/clover.jar"
 
 # get variables depending on projects
 os.chdir(script_dir)
+os.makedirs(cov_output_dir, exist_ok=True)
 
 # collct JUnit tests
 test_file_path = script_dir + "all_tests.txt"
@@ -94,10 +95,16 @@ errs = []
 src_dir = subprocess.run(["defects4j export -p dir.src.classes"], capture_output=True, text=True, shell=True).stdout + "/"
 
 
-# modified_src = script_dir + "tmp_" + src_dir + \
+###Math, Lang
+# modified_src = script_dir + src_dir.replace("java", "tmp_java") + \
+#     subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
+
+###Chart
+modified_src = script_dir + src_dir.replace("source", "tmp_source") + \
+   subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
+###Closure
+#modified_src = script_dir + src_dir.replace("src", "tmp_src") + \
 #    subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
-modified_src = script_dir + src_dir.replace("java", "tmp_java") + \
-    subprocess.run(["defects4j export -p classes.modified"], capture_output=True, text=True, shell=True).stdout.replace(".", "/") + ".java"
 
 LOC = 0
 with open(modified_src, mode="r") as file:

@@ -10,8 +10,8 @@ args = parser.parse_args()
 # BUILD_dir
 ##
 
-path = "/tmp/" + args.project_id + "/" + args.bug_id + "/build.xml"  ##Math,Closure,Lang
-#path = "/tmp/" + args.project_id + "/" + args.bug_id + "/ant/build.xml"   ##Chart
+# path = "/tmp/" + args.project_id + "/" + args.bug_id + "/build.xml"  ##Math,Closure,Lang
+path = "/tmp/" + args.project_id + "/" + args.bug_id + "/ant/build.xml"   ##Chart
 
 import xml.etree.ElementTree as ET
 
@@ -19,12 +19,12 @@ tree = ET.parse(path)
 root = tree.getroot()
 
 #'''   ###Math, Lang
-for child in root:
-    if "id" in child.attrib and (child.attrib["id"] == "compile.classpath" \
-        or child.attrib["id"] == "test.classpath" or child.attrib["id"] == "build.classpath"):
-        cloverpath = ET.SubElement(child, "pathelement")
-        cloverpath.set("location", "/root/clover/lib/clover.jar")
-        print(child.attrib)
+# for child in root:
+#     if "id" in child.attrib and (child.attrib["id"] == "compile.classpath" \
+#         or child.attrib["id"] == "test.classpath" or child.attrib["id"] == "build.classpath"):
+#         cloverpath = ET.SubElement(child, "pathelement")
+#         cloverpath.set("location", "/root/clover/lib/clover.jar")
+#         print(child.attrib)
 #'''
 '''   ###Lang at Version21 over
 for child in root:
@@ -35,7 +35,7 @@ for child in root:
         cloverpath.set("location", "/root/clover/lib/clover.jar")
         print(child.attrib)
 '''
-'''   ###Chart
+#'''   ###Chart
 for child in root:
     if child.attrib['name'] == "initialise":
         for c_child in child:
@@ -44,7 +44,7 @@ for child in root:
                 cloverpath = ET.SubElement(c_child, "pathelement")
                 cloverpath.set("location", "/root/clover/lib/clover.jar")
                 print(c_child.attrib)
-'''
+#'''
 '''
 for child in root:
     if "id" in child.attrib and (child.attrib["id"] == "srcclasspath.path" \

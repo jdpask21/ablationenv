@@ -1,0 +1,20 @@
+    protected AbstractCategoryItemRenderer() {
+        this.itemLabelGeneratorList = new ObjectList();
+        this.toolTipGeneratorList = new ObjectList();
+        this.urlGeneratorList = new ObjectList();
+        this.legendItemLabelGenerator
+        this.backgroundAnnotations = new ArrayList();
+        this.foregroundAnnotations = new ArrayList();
+    public CategoryPlot getPlot() {
+        return this.plot;
+    public void setPlot(CategoryPlot plot) {
+        if (plot == null) {
+        this.plot = plot;
+    public Range findRangeBounds(CategoryDataset dataset) {
+        return findRangeBounds(dataset, false);
+    public DrawingSupplier getDrawingSupplier() {
+        DrawingSupplier result = null;
+        CategoryPlot cp = getPlot();
+        if (cp != null) {
+            result = cp.getDrawingSupplier();
+        return result;

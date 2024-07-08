@@ -74,14 +74,14 @@ cd $SCRIPT_DIR
 #cp -r src/test src/tmp_test
 #cp -r src/java src/tmp_java
 ####Chart
-#cp -r tests tmp_tests
-#cp -r source tmp_source
+cp -r tests tmp_tests
+cp -r source tmp_source
 ####Closure
 #cp -r test tmp_test
 #cp -r src tmp_src
 ###Lang version -35
-cp -r src/test/java src/test/tmp_java
-cp -r src/main/java src/main/tmp_java
+# cp -r src/test/java src/test/tmp_java
+# cp -r src/main/java src/main/tmp_java
 ###Lang version 36-
 #cp -r src/test src/tmp_test
 #cp -r src/java src/tmp_java
@@ -93,11 +93,11 @@ export JAVA_TOOL_OPTIONS=-Dfile.encoding=UTF8   ###one time is OK
 ###Math version 85-? 
 #java -cp /root/clover/lib/clover.jar com.atlassian.clover.CloverInstr --source 1.5 -i clover.db -s src/tmp_java -d src/java
 ###Chart
-#java -cp /root/clover/lib/clover.jar com.atlassian.clover.CloverInstr --source 1.3 -i clover.db -s tmp_source -d source
+java -cp /root/clover/lib/clover.jar com.atlassian.clover.CloverInstr --source 1.3 -i clover.db -s tmp_source -d source
 ###Closure
 #java -cp /root/clover/lib/clover.jar com.atlassian.clover.CloverInstr --source 1.5 -i clover.db -s tmp_src -d src
 ###Lang version -35
-java -cp /root/clover/lib/clover.jar com.atlassian.clover.CloverInstr --source 8 -i clover.db -s src/main/tmp_java -d src/main/java
+# java -cp /root/clover/lib/clover.jar com.atlassian.clover.CloverInstr --source 8 -i clover.db -s src/main/tmp_java -d src/main/java
 ###Lang version 36-
 #java -cp /root/clover/lib/clover.jar com.atlassian.clover.CloverInstr --source 8 -i clover.db -s src/tmp_java -d src/java
 ###Lang version 46-
@@ -121,12 +121,13 @@ TARGET_DIR=$(echo $CLASS_DIR | sed -e "s/^\([^/]*\)\/.*/\1/g")
 #TARGET_DIR="$TMP_DIR/target"
 
 ## Chartのみ
-#mkdir "target"
-#TARGET_DIR="$SCRIPT_DIR/target"
-#cp -r $CLASS_DIR $TESTS_DIR $SCRIPT_DIR/target
-#rm -r $CLASS_DIR $TESTS_DIR   ###コメントアウトしないと動作しない。なにこれ？
-#CLASS_DIR=$TARGET_DIR/$CLASS_DIR
-#TESTS_DIR=$TARGET_DIR/$TESTS_DIR
+mkdir "target"
+TARGET_DIR="$SCRIPT_DIR/target"
+cp -r $CLASS_DIR $TESTS_DIR $SCRIPT_DIR/target
+
+# rm -r $CLASS_DIR $TESTS_DIR   ###コメントアウトしないと動作しない。なにこれ？
+# CLASS_DIR=$TARGET_DIR/$CLASS_DIR
+# TESTS_DIR=$TARGET_DIR/$TESTS_DIR
 
 #
 # jacococli instrument for buggy class
