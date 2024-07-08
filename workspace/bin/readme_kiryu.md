@@ -33,9 +33,9 @@ defects4jのカバレッジをjacocoを用いて収集するツールです.
 - hoge.py
     - 実行回数カバレッジ情報を収集するプログラムです。run_test.shではデフォルトでこいつを使用
 - hoge2.py
-    - 通常のコードカバレッジ情報を収集するプログラムです。使う場合はコメントアウトを解除してください。その際は、hoge.py、hoge3.pyはコメントアウトしてください。
+    - 通常のコードカバレッジ情報を収集するプログラムです。使う場合はrun_test.shでhoge.pyを実行した後、このスクリプト単体で実行してください。
 - hoge3.py
-    - 論文[Ablationとテストケース学習に基づく実行情報の欠落を利用した故障箇所特定](../../masterthesis2024.pdf), [Fault Localization with DNN-based Test Case Learning and Ablated Execution Traces](../../ISE2023-ikeda_t.pdf)で使用している実行トレースを収集するプログラムです。他と同様に使用する際はコメントアウトを解除してください。また、hoge.py, hoge2.pyはコメントアウトしてください。
+    - 論文[Ablationとテストケース学習に基づく実行情報の欠落を利用した故障箇所特定](../../masterthesis2024.pdf), [Fault Localization with DNN-based Test Case Learning and Ablated Execution Traces](../../ISE2023-ikeda_t.pdf)で使用している実行トレースを収集するプログラムです。他と同様に使用する際はコメントアウトを解除してください。また、-cオプションを用いて実行することで、テスト実行の時間を省略します。（hoge.pyで収集したカバレッジレポートが必要です。）こちらも、-cオプションを用いて実行する場合は、run_time.shではなく、このスクリプト単体で実行してください。
         
 - run_test.sh
     - checkout-compile.sh と collect_coverage_parallelized.py を実行するやつ.
